@@ -95,7 +95,7 @@ class CoreComposables : ComponentActivity() {
 @Composable
 fun NameInput() {
     // remember is in-memory storage only, to keep data between Compose recompositions
-    // it does not survive configuration changed or deallocation!
+    // it does not survive configuration changes or deallocation!
     val textState = remember { mutableStateOf("") }
 
     TextField(
