@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.sanctusmedia.android.compose_learning"
+    namespace = "net.firzen.android.composelearning"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.sanctusmedia.android.compose_learning"
+        applicationId = "net.firzen.android.composelearning"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

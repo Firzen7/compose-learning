@@ -1,4 +1,4 @@
-package com.sanctusmedia.android.compose_learning
+package net.firzen.android.composelearning
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -14,7 +14,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import com.sanctusmedia.android.compose_learning.ui.theme.ComposelearningTheme
+import net.firzen.android.composelearning.theme.ComposelearningTheme
 import kotlin.concurrent.timer
 
 // example from page 15

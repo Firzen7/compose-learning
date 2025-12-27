@@ -1,4 +1,4 @@
-package com.sanctusmedia.android.compose_learning.ui.theme
+package net.firzen.android.composelearning.theme
 
 import androidx.compose.ui.graphics.Color
 

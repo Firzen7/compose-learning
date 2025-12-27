@@ -1,6 +1,5 @@
-package com.sanctusmedia.android.compose_learning.ui.theme
+package net.firzen.android.composelearning.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
